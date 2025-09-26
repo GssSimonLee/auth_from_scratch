@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+date: Fri, 26 Sep 2025 10:01:02 GMT
+server: uvicorn
+content-length: 164
+content-type: application/json
+set-cookie: op_sid=RLlU5B6uQpf1-UEPRH2XVmQJUivjae1HPTxwnnEPXrc; HttpOnly; Max-Age=2592000; Path=/; SameSite=lax
+
+{"user":{"id":1,"username":"simon","email":"simon@example.com","given_name":"Simon","family_name":"Lee"},"csrf_token":"NSHuaKNq4WcOa5vR1nAhsQ7ZKiSF6r2AKbxEPp3L1NY"}
